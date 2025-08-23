@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Welcome to Our Class Repository! 🌟</h1>
 <h3 align="center">
-  Hai semuanya 👋 Kami dari <strong>SMKN 8 Semarang - PPLG</strong>!  
+  Hai semuanya 👋 Kami dari <strong>SMKN 8 Semarang - PPLG</strong>1!  
   Repo ini berisi perjalanan belajar dan proyek-proyek kelas kami.  
   Mulai dari latihan sederhana sampai project kerjasama tim, semuanya ada di sini.  
   Kami percaya bahwa belajar paling efektif adalah <strong>belajar sambil praktik</strong> 🚀  
